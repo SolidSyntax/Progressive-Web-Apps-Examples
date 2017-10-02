@@ -1,0 +1,10 @@
+# libraries
+node_modules/
+
+# editor
+.idea
+*.iml
+
+# os
+.DS_Store
+
